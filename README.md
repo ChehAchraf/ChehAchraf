@@ -38,7 +38,7 @@ I’m always looking for opportunities to learn, collaborate, and improve my ski
 
 ## 📅 Contribution Graph
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=[YourGitHubUsername]&theme=react-dark)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=ChehAchraf&theme=react-dark)
 
 ## 🔗 Connect with Me
 
