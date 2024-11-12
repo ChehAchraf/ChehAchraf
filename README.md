@@ -31,6 +31,11 @@ I’m always looking for opportunities to learn, collaborate, and improve my ski
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChehAchraf&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+
+## 📚 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChehAchraf&layout=compact&theme=radical)
+
 ## 🔗 Connect with Me
 
 - [LinkedIn](your-linkedin-url)
