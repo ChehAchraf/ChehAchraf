@@ -36,6 +36,10 @@ I’m always looking for opportunities to learn, collaborate, and improve my ski
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChehAchraf&layout=compact&theme=radical)
 
+## 📅 Contribution Graph
+
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=[YourGitHubUsername]&theme=react-dark)
+
 ## 🔗 Connect with Me
 
 - [LinkedIn](your-linkedin-url)
