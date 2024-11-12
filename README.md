@@ -5,26 +5,26 @@ Welcome to my GitHub profile! I’m a passionate coding student currently learni
 I’m always looking for opportunities to learn, collaborate, and improve my skills. Here's a bit more about me:
 
 ## 🚀 About Me
-- 🎓 I’m currently studying [your field, e.g., Computer Science, Web Development, etc.].
-- 🌱 I’m always exploring new technologies and tools like [mention specific tools or libraries you're excited about].
-- 🔭 I’m working on [mention any project you’re currently developing].
-- 👯 I’m open to collaborating on [mention any areas or projects you're interested in collaborating on].
+- 🎓 I’m currently studying [Web Development, Software Eninering].
+- 🌱 I’m always exploring new technologies and tools like [Nmap, Burpsuite, Metasploite].
+- 🔭 I’m working on [E-commerce Web app].
+- 👯 I’m open to collaborating on [Any Project in the future].
 - 🤔 I’m looking to learn more about [mention topics you’re interested in diving deeper into].
-- 💬 Ask me about anything related to [your areas of expertise or interest].
-- ⚡ Fun fact: [share something interesting or unique about yourself, e.g., "I love building side projects at night" or "I play chess in my free time!"].
+- 💬 Ask me about anything related to [Web Dev And IT Generally].
+- ⚡ Fun fact: [I don't like coscos (traditional moroccan food)].
 
 ## 📚 What I'm Learning Right Now
-- **[Technology 1]** (e.g., React, Python, JavaScript, etc.)
-- **[Technology 2]** (e.g., Django, Flask, etc.)
-- **[Technology 3]** (e.g., Docker, Kubernetes, etc.)
-- **[Technology 4]** (e.g., GraphQL, Machine Learning, etc.)
+- **[Technology 1]** (React, Python, JavaScript, etc.)
+- **[Technology 2]** (Django, Flask, etc.)
+- **[Technology 3]** (Docker, Kubernetes, etc.)
+- **[Technology 4]** (GraphQL, Machine Learning, etc.)
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: [List programming languages you're proficient in, e.g., Python, JavaScript, C++, etc.]
-- **Web Development**: [React, Node.js, HTML, CSS, etc.]
+- **Languages**: [C, Python, Php, Javascript]
+- **Web Development**: [Html, Js, Css, Sass]
 - **Databases**: [MySQL, MongoDB, etc.]
-- **Tools & Frameworks**: [List any libraries, frameworks, or tools you use like Git, Docker, etc.]
+- **Tools & Frameworks**: [Bootstrap, Tailwind, Bulma]
 - **Version Control**: [Git/GitHub]
 
 ## 📈 GitHub Stats
