@@ -29,7 +29,7 @@ I’m always looking for opportunities to learn, collaborate, and improve my ski
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ChehAchraf]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔗 Connect with Me
 
